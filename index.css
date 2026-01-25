@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-image: linear-gradient(azure);
+}
+.profile {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50px;
+}
+.main-container {
+    display: flex;
+    margin: 20px 30px;
+    color: rgb(16, 2, 2);
+
+}
+.placecard {
+    padding: 10px 20px;
+    line-height: 1.6;
+   
+}
+.contact-list {
+    font: 1.2em sans-serif;
+    border-bottom: 2px solid white;
+    display: inline-block;
+    color: blue;
+}
+.items {
+    line-height: 1.2;
+     margin-left: 50px;
+}
+h2 {
+    margin-top: 8px;
+}
+.contact {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+.heading {
+flex-direction: column;
+margin-left: 70px;
+justify-content: center;
+text-align: center;
+}
+.name {
+    font-size: 1.6rem;
+    margin-bottom: 9px;
+
+}
+span {
+    color: rgb(7, 7, 104);
+    font-size: 1.3rem;
+}
