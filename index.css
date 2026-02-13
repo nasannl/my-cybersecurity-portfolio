@@ -12,9 +12,9 @@
 }
 .main-container {
     display: flex;
-    margin: 20px 30px;
+    margin: 20px 30px 30px;
+    padding: 10px;
     color: rgb(16, 2, 2);
-
 }
 .placecard {
     padding: 10px 20px;
@@ -54,3 +54,4 @@ span {
     color: rgb(7, 7, 104);
     font-size: 1.3rem;
 }
+
